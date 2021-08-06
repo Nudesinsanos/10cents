@@ -1,0 +1,16 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+header img {
+  width: 100vw;
+}
+div {
+  display: flex;
+  flex-wrap: wrap;
+}
+a img {
+  width: 30vw;
+  margin: 5px;
+}
